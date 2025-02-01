@@ -8,3 +8,7 @@ Recently, Google unveiled SynthID: an algorithm that inserts digital watermarks 
 
 Read more on Medium about this project: https://medium.com/@consigli/ai-vs-reality-whats-real-watermarking-1c1d2277d2db
 
+## Currently this repository consists of code for:
+* An image watermarking system (Jupyter Notebook Python file)
+* A text watermarking system (coming soon)
+
