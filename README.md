@@ -6,7 +6,7 @@ AI has been accelerating the spread of misinformation and disinformation online,
 
 Recently, Google unveiled SynthID: an algorithm that inserts digital watermarks in AI-generated content, including images, videos, text, and audio. These watermarks can be used to track AI-generated content circulating the internet. For my second replicate at The Knowledge Society, I recreated SynthID's basic function for watermarking images and text. Feel free to use this code in any AI-watermarking projects as long as you follow the Apache 2.0 license. 
 
-**DISCLAIMER: Please note that this project replicates the way that SynthID watermarks and detects AI-generated text on a smaller scale, and does not have the full functionality of SynthID. **
+**DISCLAIMER: Please note that this project replicates the way that SynthID watermarks and detects AI-generated text on a smaller scale, and does not have the full functionality of SynthID.**
 
 Read more on Medium about this project and how watermarking works: https://medium.com/@consigli/ai-vs-reality-whats-real-watermarking-1c1d2277d2db
 
