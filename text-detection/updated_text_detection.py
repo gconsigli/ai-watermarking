@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """updated_text_detection.ipynb
 Generated from a Jupyter Notebook in Google Colab
-Created by Griffin Consigli | griffinconsigli.com
+Code created by Griffin Consigli | griffinconsigli.com
 """
 
 pip install torch transformers
