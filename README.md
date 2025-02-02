@@ -19,7 +19,7 @@ Read more on Medium about this project and how watermarking works: https://mediu
 
 The Jupyter Notebooks in this repository can be used in Google Colab or locally. If you are interested in running this locally, make sure to install the latest version of Python compatible with PyTorch and the necessary libraries:
 
-```pip install torch transformers pillow diffusers```
+[[[pip install torch transformers pillow diffusers]]]
 
 ## Acknowledgments
 
