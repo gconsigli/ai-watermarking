@@ -1,4 +1,4 @@
-# Watermarking AI-generated Content (Images and Text)
+# Recreating SynthID: Watermarking AI-generated Content (Images and Text)
 
 ## Inspiration
 
