@@ -16,4 +16,4 @@ Read more on Medium about this project and how watermarking works: https://mediu
 
 ## Acknowledgments
 
-I wanted to give a special thank you to @sdathath and Pushmeet Kohli who helped me better understand how SynthID works as I continue exploring it for my focus on Artificial Intelligence at The Knowledge Society!
+I wanted to give a special thanks to @sdathath and Pushmeet Kohli who helped me better understand how SynthID works as I continue exploring it for my focus on Artificial Intelligence at The Knowledge Society!
