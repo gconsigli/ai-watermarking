@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """updated_pipeline.ipynb
 Generated from a Jupyter Notebook in Google Colab
+Code created by Griffin Consigli | griffinconsigli.com
 """
 
 import torch
