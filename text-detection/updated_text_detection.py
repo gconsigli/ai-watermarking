@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """updated_text_detection.ipynb
-Generated from a Jupyter Notebook in Google Colab
-Code created by Griffin Consigli | griffinconsigli.com
+Description: An exported Python script from a Jupyter Notebook for detecting AI-generated text with tokens.
+Copyright 2025 Griffin Consigli
+See the Apache 2.0 License for legal limitations in using this software.
 """
 
 pip install torch transformers
