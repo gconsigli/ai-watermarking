@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """updated_pipeline.ipynb
-Generated from a Jupyter Notebook in Google Colab
-Code created by Griffin Consigli | griffinconsigli.com
+Description: An exported Python script from a Jupyter Notebook for AI-generated image watermarking and detection.
+Copyright 2025 Griffin Consigli
+See the Apache 2.0 License for legal limitations in using this software.
 """
 
 import torch
