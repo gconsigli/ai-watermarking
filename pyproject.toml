@@ -1,0 +1,15 @@
+# Dependencies
+
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages] 
+torch = "*"
+diffusers = "*"
+pillow = "*"
+transformers = "*"
+
+[requires]
+python_version = "3.13.2" # Latest version tested with the software. 
