@@ -25,4 +25,4 @@ pip install torch transformers pillow diffusers
 
 ## Acknowledgments
 
-I wanted to give a special thanks to @sdathath and Pushmeet Kohli who helped me better understand how SynthID works as I continue exploring it for my focus on Artificial Intelligence at The Knowledge Society!
+I wanted to give a special thanks to Sumanth Dathathri and Pushmeet Kohli who helped me better understand how SynthID works as I continue exploring it for my focus on Artificial Intelligence at The Knowledge Society!
