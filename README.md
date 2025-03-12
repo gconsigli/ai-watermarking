@@ -1,6 +1,7 @@
 # Recreating SynthID: Watermarking and Tokenizing AI-generated Content (Images and Text)
 
-https://www.youtube.com/watch?v=WTQxY6Iw56A&t=2s
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WTQxY6Iw56A/0.jpg)](https://www.youtube.com/watch?v=WTQxY6Iw56A)
+
 
 ## Inspiration
 
