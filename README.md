@@ -1,5 +1,7 @@
 # Recreating SynthID: Watermarking and Tokenizing AI-generated Content (Images and Text)
 
+https://www.youtube.com/watch?v=WTQxY6Iw56A&t=2s
+
 ## Inspiration
 
 AI has been accelerating the spread of misinformation and disinformation online, and it’s been harder to tell AI-generated and human-generated text apart. Roughly 57% of AI-generated content on the internet is most likely AI-generated. At the same time, tons of photorealistic AI-generated images have been fooling the internet despite algorithms designed to demote and remove AI-generated content.
